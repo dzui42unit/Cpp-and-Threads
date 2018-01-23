@@ -15,38 +15,5 @@ As a small task was chosen such task:
     
 Example of source xml file:
 
-/* <root>
- 
- <intervals>
-   
-   <interval>
-     
-     <low> 100 </low>
-     
-     <high> 200</high>
-   
-   </interval>
-   
-   <interval>
-     
-     <low> 500</low>
-     
-     <high> 888</high>
-    
-    </interval>
-	....
-  
-  </intervals>
-
-</root>
-
-Example of output (may be added to the source xml file):
-
-<root>
-
-<primes> 101 103 107 149 743  751… </primes>
-
-</root>
-/*
-
+![example](https://user-images.githubusercontent.com/28359156/35287817-eff8d79e-006b-11e8-8838-4e80f16622f4.PNG)
 
