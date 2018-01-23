@@ -15,7 +15,7 @@ As a small task was chosen such task:
     
 Example of source xml file:
 
-<root>
+/* <root>
  
  <intervals>
    
@@ -47,5 +47,6 @@ Example of output (may be added to the source xml file):
 <primes> 101 103 107 149 743  751… </primes>
 
 </root>
+/*
 
 
